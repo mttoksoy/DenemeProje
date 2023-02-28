@@ -5,7 +5,7 @@ let score = 20;
 let highScore = 0;
 
 let el = document.querySelector(".check");
-
+//asdasdasd
 el.addEventListener("click", function () {
   const guess = Number(document.querySelector(".guess").value);
   console.log(guess);
